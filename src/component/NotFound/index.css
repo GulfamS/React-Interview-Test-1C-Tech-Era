@@ -1,0 +1,21 @@
+.notfound-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 18px;
+}
+
+.not-found {
+  width: 400px;
+}
+
+.heading {
+  font-family: Roboto;
+  color: #1e293b;
+}
+
+.description {
+  font-family: Roboto;
+  color: #475569;
+}

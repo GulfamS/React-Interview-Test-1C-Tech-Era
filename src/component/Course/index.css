@@ -1,0 +1,12 @@
+.list-item {
+  list-style-type: none;
+  text-decoration: none;
+  margin: 30px;
+  color: #1e293b;
+  display: flex;
+}
+
+.name {
+  margin: 10px;
+  text-decoration: none;
+}

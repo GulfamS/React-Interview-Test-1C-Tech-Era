@@ -1,0 +1,25 @@
+.item-details {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+  width: 80%;
+}
+
+.image {
+  width: 250px;
+  margin-right: 18px;
+}
+
+.course-name {
+  font-family: Roboto;
+  font-size: 20px;
+  color: #1e293b;
+  font-weight: bold;
+}
+
+.course-description {
+  font-family: Roboto;
+  color: #64748b;
+  font-size: 16px;
+}
